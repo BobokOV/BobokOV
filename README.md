@@ -18,20 +18,15 @@
 
 Смеюсь: проекты начинаю писать вместе с ридми
 
-#### [TeleSort - Умный сортировщик контента для Telegram](https://github.com/username/telesort)
+#### TeleSort - Умный сортировщик контента для Telegram
 Бот для умной сортировки постов в Telegram-каналах с использованием нейросетей для анализа текста и категоризации контента.
 - **Технологии**: Python, FastAPI, Telethon, PostgreSQL, SQLAlchemy, OpenAI API
 - **Особенности**: Асинхронная архитектура, JWT-аутентификация, Docker контейнеризация
 
-#### [FinanceTracker - Учет финансов в Telegram](https://github.com/username/finance-tracker)
+#### FinanceTracker - Учет финансов в Telegram
 Telegram-бот для управления личными финансами с аналитикой и категоризацией трат.
 - **Технологии**: Python, SQLite, python-telegram-bot, Pandas
 - **Особенности**: Визуализация статистики, распознавание чеков, уведомления о регулярных платежах
-
-### 📊 GitHub статистика
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&langs_count=7&theme=dark"/>
 
 ### 🌱 В настоящее время изучаю
 
@@ -52,7 +47,7 @@ Telegram-бот для управления личными финансами с
 
 ### 📫 Контакты
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-bobok-738a69358)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obobok2@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BobokOV)
 
